@@ -3,7 +3,7 @@ layout: post
 author: Valeria
 title: "sub vs gsub in Ruby strings"
 date: 2021-12-03
-categories: ruby coding
+categories: coding ruby
 ---
 # `sub` vs `gsub` in Ruby strings
 

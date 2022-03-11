@@ -3,7 +3,7 @@ layout: post
 author: Valeria
 title: "RSpec Custom Matchers"
 date: 2022-02-03
-categories: coding testing rspec
+categories: coding rspec
 ---
 # RSpec Custom Matchers
 

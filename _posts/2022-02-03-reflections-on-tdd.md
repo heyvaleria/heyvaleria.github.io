@@ -3,7 +3,7 @@ layout: post
 author: Valeria
 title: "Reflections on  writing tests before or after writing a method"
 date: 2022-02-03
-categories: tdd coding testing
+categories: coding tdd
 ---
 # Reflections on  writing tests before or after writing a method
 

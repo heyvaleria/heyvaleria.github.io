@@ -3,7 +3,7 @@ layout: post
 author: Valeria
 title: "git bisect to the rescue"
 date: 2021-12-09
-categories: git coding
+categories: coding git
 ---
 # git bisect to the rescue
 

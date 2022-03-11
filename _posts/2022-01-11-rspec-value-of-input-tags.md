@@ -3,7 +3,7 @@ layout: post
 author: Valeria
 title: "Expectations for an input tag"
 date: 2022-01-11
-categories: coding rails rspec
+categories: coding rspec
 ---
 # Expectations for an input tag
 

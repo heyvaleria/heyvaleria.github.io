@@ -3,7 +3,7 @@ layout: post
 author: Valeria
 title: "How to run and debug a Jest spec"
 date: 2021-12-06
-categories: javascript jest coding testing
+categories: coding javascript jest
 ---
 # How to run and debug a Jest spec
 

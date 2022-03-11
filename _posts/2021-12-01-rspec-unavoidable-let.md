@@ -3,7 +3,7 @@ layout: post
 author: Valeria
 title: "Unavoidable let"
 date: 2021-12-01
-categories: rspec rails coding testing
+categories: coding rspec
 ---
 # Unavoidable `let`
 

@@ -3,7 +3,7 @@ layout: post
 author: Valeria
 title: "Length validation"
 date: 2021-12-01
-categories: rails coding
+categories: coding rails
 ---
 # Length validation
 

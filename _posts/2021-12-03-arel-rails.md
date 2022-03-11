@@ -3,7 +3,7 @@ layout: post
 author: Valeria
 title: "Arel tables"
 date: 2021-12-03
-categories: rails coding
+categories: coding rails
 ---
 # Arel tables
 

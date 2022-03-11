@@ -3,7 +3,7 @@ layout: post
 author: Valeria
 title: "Time Helpers"
 date: 2022-01-07
-categories: coding rails rspec
+categories: coding rspec
 ---
 # Time Helpers
 

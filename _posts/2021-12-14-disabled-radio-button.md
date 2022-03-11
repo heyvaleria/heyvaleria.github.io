@@ -3,7 +3,7 @@ layout: post
 author: Valeria
 title: "Disabled radio button"
 date: 2021-12-14
-categories: rails coding
+categories: coding rails
 ---
 # Disabled radio button
 

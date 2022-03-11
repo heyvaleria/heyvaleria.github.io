@@ -3,7 +3,7 @@ layout: post
 author: Valeria
 title: "RSpec Context"
 date: 2022-02-22
-categories: coding rspec testing
+categories: coding rspec
 ---
 # RSpec Context
 

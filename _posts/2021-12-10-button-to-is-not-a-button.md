@@ -3,7 +3,7 @@ layout: post
 author: Valeria
 title: "button_to is not a button!"
 date: 2021-12-10
-categories: rails coding testing rspec
+categories: coding rspec
 ---
 # button_to is not a button!
 

@@ -2,7 +2,7 @@
 layout: post
 author: Valeria
 title: "What is an API? For non-developers"
-date: 2022-03-14
+date: 2022-03-13
 categories: coding
 ---
 What is an API? Once asked me a non-developer.

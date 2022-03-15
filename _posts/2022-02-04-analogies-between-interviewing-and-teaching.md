@@ -5,9 +5,8 @@ title: "Analogies between interviewing and teaching"
 date: 2022-02-04
 categories: consulting interviewing
 ---
-# Analogies between interviewing and teaching
-
-As a continuation from the post [Be Better at Interviewing](./2022-01-28-be-better-at-interviewing.md),
+As a continuation from the post
+[Be Better at Interviewing](https://heyvaleria.github.io/consulting/interviewing/2022/01/28/be-better-at-interviewing.html),
 I wanted to briefly talk about how there are some analogies between teaching and
 interviewing.
 

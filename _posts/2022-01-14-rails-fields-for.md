@@ -5,8 +5,6 @@ title: "Rails form helper: fields_for"
 date: 2022-01-14
 categories: coding rails
 ---
-# Rails form helper: `fields_for`
-
 OK, we have a Rails form, but we need to write an attribute on another model.
 `fields_for` comes to the rescue, with a few things to consider.
 

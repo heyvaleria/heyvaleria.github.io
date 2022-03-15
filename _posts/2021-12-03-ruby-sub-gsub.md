@@ -5,8 +5,6 @@ title: "sub vs gsub in Ruby strings"
 date: 2021-12-03
 categories: coding ruby
 ---
-# `sub` vs `gsub` in Ruby strings
-
 While talking to [Edward](https://github.com/edwardloveall), a quick example in
 the ruby console came up, to remind us that if we want to replace all the
 occurrences in a string, we need to use `gsub`, and `sub` is not enough.

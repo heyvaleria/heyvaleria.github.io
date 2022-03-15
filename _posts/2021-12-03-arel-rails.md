@@ -5,8 +5,6 @@ title: "Arel tables"
 date: 2021-12-03
 categories: coding rails
 ---
-# Arel tables
-
 In a client project we were asked to implement a server-side search to be
 filtered in the frontend.
 

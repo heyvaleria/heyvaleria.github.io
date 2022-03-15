@@ -5,8 +5,6 @@ title: "Length validation"
 date: 2021-12-01
 categories: coding rails
 ---
-# Length validation
-
 In the client's codebase I found a length validation for presence (minimum: 1) of an object
 connected via an association.
 Usually the length association is used for something like minimum amount of

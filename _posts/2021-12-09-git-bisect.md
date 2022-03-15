@@ -5,8 +5,6 @@ title: "git bisect to the rescue"
 date: 2021-12-09
 categories: coding git
 ---
-# git bisect to the rescue
-
 [Documentation](https://git-scm.com/docs/git-bisect)
 
 One of the popular favorites at thoughtbot, at least in the boost team, is `git bisect`.

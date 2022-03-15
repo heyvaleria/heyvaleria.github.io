@@ -5,8 +5,6 @@ title: "When I want to write a new method"
 date: 2021-12-03
 categories: coding
 ---
-# When I want to write a new method
-
 One way to try to give a better name to a method.
 
 If I go to the file where I intend to use the method that does not exist yet,

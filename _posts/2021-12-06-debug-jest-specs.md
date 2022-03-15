@@ -5,7 +5,7 @@ title: "How to run and debug a Jest spec"
 date: 2021-12-06
 categories: coding javascript jest
 ---
-# How to run and debug a Jest spec
+Notes
 
 - How to run a js spec file
 `node_modules/.bin/jest --no-coverage -- spec/javascript/lib/path/to/file.spec.js`

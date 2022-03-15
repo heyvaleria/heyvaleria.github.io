@@ -5,8 +5,6 @@ title: "RSpec Custom Matchers"
 date: 2022-02-03
 categories: coding rspec
 ---
-# RSpec Custom Matchers
-
 To make a custom matcher leveraging
 [Relish's DSL](https://relishapp.com/rspec/rspec-expectations/docs/custom-matchers/define-a-custom-matcher),
 in our `spec/suppport/matchers` folder, we create a new file named what the

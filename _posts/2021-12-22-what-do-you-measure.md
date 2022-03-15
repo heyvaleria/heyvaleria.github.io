@@ -5,8 +5,6 @@ title: "What do you measure, though?"
 date: 2021-12-22
 categories: consulting
 ---
-# What do you measure, though?
-
 Sometimes we are having a difficult conversation with a client, where mismatching
 expectations happen due to unclear communication.
 

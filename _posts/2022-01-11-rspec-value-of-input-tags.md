@@ -1,12 +1,10 @@
 ---
 layout: post
 author: Valeria
-title: "Expectations for an input tag"
+title: "Expectations for an input tag - RSpec"
 date: 2022-01-11
 categories: coding rspec
 ---
-# Expectations for an input tag
-
 If you have an input field, text field, email field etc,  in a form and you
 think:
 

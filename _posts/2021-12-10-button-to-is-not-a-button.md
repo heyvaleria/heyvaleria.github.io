@@ -5,8 +5,6 @@ title: "button_to is not a button!"
 date: 2021-12-10
 categories: coding rspec
 ---
-# button_to is not a button!
-
 While working with [Matheus](https://github.com/MatheusRich) we were trying to
 expect some text (the text on a button) to be on a page in a spec.
 

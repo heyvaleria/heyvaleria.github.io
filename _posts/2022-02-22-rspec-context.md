@@ -5,8 +5,6 @@ title: "RSpec Context"
 date: 2022-02-22
 categories: coding rspec
 ---
-# RSpec Context
-
 When I see a description of a "it" that has an "if" or a "when" in the sentence,
 I think this is likely missing a higher level "context" block.
 

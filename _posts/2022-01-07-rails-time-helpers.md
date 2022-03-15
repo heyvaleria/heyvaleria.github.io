@@ -5,9 +5,7 @@ title: "Time Helpers"
 date: 2022-01-07
 categories: coding rspec
 ---
-# Time Helpers
-
-## AKA you do not need Timecop
+## Rails Time Helpers AKA you do not need Timecop
 
 In the past I have used the
 [timecop](https://github.com/travisjeffery/timecop) gem in specs to make sure I

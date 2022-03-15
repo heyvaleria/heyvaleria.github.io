@@ -1,12 +1,10 @@
 ---
 layout: post
 author: Valeria
-title: "Unavoidable let"
+title: "Unavoidable let - RSpec"
 date: 2021-12-01
 categories: coding rspec
 ---
-# Unavoidable `let`
-
 While pairing with [Steph](https://github.com/SViccari), who was helping me improve a spec file, I was asking
 how I could get rid of the top level `let`.
 

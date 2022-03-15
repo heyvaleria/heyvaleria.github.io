@@ -5,8 +5,6 @@ title: "Motivation when learning a new language"
 date: 2022-02-04
 categories: consulting interviewing
 ---
-# Motivation when learning a new language
-
 I recently asked myself what new language or framework I should be studying,
 revisiting, expanding my knowledge in, in order to grow and use it to work
 on different types of projects.

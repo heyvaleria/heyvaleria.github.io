@@ -5,8 +5,6 @@ title: "Be a better interviewer"
 date: 2022-01-28
 categories: consulting interviewing
 ---
-# Be a better interviewer
-
 I tend to be afraid to interview candidates because I feel like I am the
 interviewee... but I am trying to step out of my comfort zone and be better at
 interviewing.
@@ -83,6 +81,7 @@ interviewers were quiet instead, say even if there was a small error or
 something minor like that...because they were there to **LISTEN!**
 
 And while discussing this last point with [Sam](https://github.com/samkap),
-it made me think of [Analogies Between Interviewing and Teaching](./2022-02-04-analogies-between-interviewing-and-teaching.md)
+it made me think of
+[Analogies Between Interviewing and Teaching](https://heyvaleria.github.io/consulting/interviewing/2022/02/04/analogies-between-interviewing-and-teaching.html)
 
 A real A-HA moment.

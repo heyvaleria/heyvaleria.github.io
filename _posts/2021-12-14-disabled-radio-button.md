@@ -5,8 +5,6 @@ title: "Disabled radio button"
 date: 2021-12-14
 categories: coding rails
 ---
-# Disabled radio button
-
 If you have a radio button and it is marked as `disabled: true` when you submit
 the form that param will not be included in the params with the existing
 selection, and it will be an empty string.

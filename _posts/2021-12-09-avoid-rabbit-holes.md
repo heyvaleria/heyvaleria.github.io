@@ -5,9 +5,6 @@ title: "Avoid Rabbit Holes"
 date: 2021-12-09
 categories: coding
 ---
-
-# Avoid Rabbit Holes
-
 I was working on fixing a bug with the help of
 [Greg](https://github.com/gnfisher) and I already tried a million things so I
 can use a fresh pair of rubber duck eyes to get me out of the rabbit hole I was

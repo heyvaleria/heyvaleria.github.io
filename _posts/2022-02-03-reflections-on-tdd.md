@@ -5,8 +5,6 @@ title: "Reflections on  writing tests before or after writing a method"
 date: 2022-02-03
 categories: coding tdd
 ---
-# Reflections on  writing tests before or after writing a method
-
 I was chatting with [Joël](https://github.com/JoelQ) and was trying to improve
 my approach in writing tests and code, the philosophy, key things to consider,
 and reach greater finesse.

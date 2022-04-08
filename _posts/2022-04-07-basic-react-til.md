@@ -56,7 +56,7 @@ the new overall picture.
 
 But of course re-rendering the "flushed" view changing only those
 components that had changed, while the rest, leveraging the hooks like
-useMemo, for example, will remember the previous cached iteration
+`useMemo`, for example, will remember the previous cached iteration
 (state) where if nothing changed, without recalculating of making
 another call to the endpoint or what have you will show you the same
 state as before. Nifty.

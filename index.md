@@ -1,6 +1,5 @@
 ---
 layout: home
-title: Ciao
 ---
 I am Valeria, a developer at [thoughtbot](https://thoughtbot.com/).
 I am originally from Pisa, Italy, but I live in Seattle, WA, USA.

@@ -20,7 +20,7 @@ can be loaded by the Node.js `require()` function.
 
 Unscoped packages are always public, like:
 
-```js
+```json
 "devDependencies": {
   "nodemon": "^2.0.15"
 }
@@ -29,7 +29,7 @@ Unscoped packages are always public, like:
 Private packages are always scoped and scoped packages are private by default.
 This is an example of a scoped public package:
 
-```js
+```json
 "dependencies": {
   "@google-cloud/functions-framework": "^3.1.0"
 }

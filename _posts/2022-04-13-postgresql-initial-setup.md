@@ -50,29 +50,37 @@ CREATE DATABASE foo;
     INSERT INTO songs(id, artist, title, duration) VALUES (1, 'Ramones', 'Questioningly', 120);
     ```
     1. import a txt or csv file, still I wouldn't use a txt file in production for a real app.
-    `COPY` is a good command to keep in mind in your toolchain in your brain, to be used
-    sporadically but it's useful especially to quickly ingest a lot of data in bulk uploads,
-    or like, my friend [Jeff](https://github.com/jeffreyfriedman) pointed out, they say
-    [in this article](https://www.citusdata.com/blog/2017/11/08/faster-bulk-loading-in-postgresql-with-copy/):
+      `COPY` is a good command to keep in mind in your toolchain in your brain, to be used
+      sporadically but it's useful especially to quickly ingest a lot of data in bulk uploads,
+      or like, my friend [Jeff](https://github.com/jeffreyfriedman) pointed out, they say
+      [in this article](https://www.citusdata.com/blog/2017/11/08/faster-bulk-loading-in-postgresql-with-copy/):
 
-    > [...] you can achieve much higher throughput than with single row inserts.
+        > [...] you can achieve much higher throughput than with single row inserts.
 
-    > [...] each insert is a transaction.
+        > [...] each insert is a transaction.
 
-    > The `copy` mechanism gives a way to bulk load data in an even more performant manner [...]
+        > The `copy` mechanism gives a way to bulk load data in an even more performant manner [...]
 
-    > By batching our inserts into a single transaction, we saw our throughput go higher.
+        > By batching our inserts into a single transaction, we saw our throughput go higher.
 
-
-    ```sql
-    COPY songs FROM 'path/to/file/songs.csv' DELIMITER ',';
-    ```
-    Notes: don't use spaces in the csv file, don't use quotes in the csv file for strings,
-    YES, there was no `id` column, Rails migrations give you free `id`, and `created_at` timestamp
-    that you don't get here in the raw world of postgres tables.
-    1. my import failed validation cause one value exceeded the limit of the acceptable string,
-    and aborted the import. Since this is a toy app, I can mess around, and make it longer:
-    ```sql
-    ALTER TABLE songs ALTER COLUMN artist TYPE varchar(90);
-    ```
-    The import of seed data was successful, now I can go back to my app.
+        ```sql
+        COPY songs FROM 'path/to/file/songs.csv' DELIMITER ',';
+        ```
+        Notes: don't use spaces in the csv file, don't use quotes in the csv file for strings,
+        YES, there was no `id` column, Rails migrations give you free `id`, and `created_at` timestamp
+        that you don't get here in the raw world of postgres tables.
+  1. To add the `id` column to be sequential, I dropped the column on this table because it is
+  fake data, with:
+  ```sql
+  ALTER TABLE songs DROP COLUMN id;
+  ```
+  and then added it with:
+  ```sql
+  ALTER TABLE songs ADD COLUMN id SERIAL PRIMARY KEY;
+  ```
+  1. my import failed validation cause one value exceeded the limit of the acceptable string,
+  and aborted the import. Since this is a toy app, I can mess around, and make it longer:
+  ```sql
+  ALTER TABLE songs ALTER COLUMN artist TYPE varchar(90);
+  ```
+  The import of seed data was successful, now I can go back to my app.

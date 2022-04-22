@@ -24,6 +24,7 @@ not an integer but "{}"
 
 TIL: if the function returns a promise, I need to make it return a value
 (wait until it's done doing its thing) before I can use the value.
+
 ---
 ### Some shared code
 
@@ -118,7 +119,7 @@ router.post('/', async (request, response) => {
 1. at this point we make another variable `song` that will call the `buildSong`
   function, but this time we do _not_ need to `await` because our function only
   builds an object, does not return a promise.
-1. finally we can invoke postNewSong with `await` but anonymously, as this will
+1. finally we can invoke `postNewSong` with `await` but anonymously, as this will
   connect to the client and `INSERT` into the database. And adding a useless
   `res.send` to attach to the response head (hey, one thing at a time 2x!)
 

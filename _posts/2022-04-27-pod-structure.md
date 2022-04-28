@@ -5,6 +5,8 @@ title: "File structure in a codebase: Pod structure vs not"
 date: 2022-04-27
 categories: coding
 ---
+Thanks to [Chris](https://github.com/whitecl) for the illuminating chat.
+
 
 OK, so one is called **pod structure** and let's decide that we call the non-pod
 structure the **category structure**.

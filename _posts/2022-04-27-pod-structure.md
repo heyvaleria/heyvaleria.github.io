@@ -23,12 +23,12 @@ resources names, like user, post or what have you.
 The pod structure that we often find in JS, React, TS and these "modern" applications
 (why in quotes? cause Rails ain't old!).
 
-In these projects we typically find a huge `/src` foldern and in it you have the
+In these projects we typically find a huge `/src` folder and in it you have the
 various resources divided folders and in each folder you have all sorts of stuff
 that pertains to that resource: `index.tsx`, css, specs (!!!) and other junk
 that is all technically about the user or what have you.
 
-### Opinionated take on pros and cons
+### An opinionated take on pros and cons
 In the category structure it may be hard to go find a specific spec for something,
 or importing required files can be a `../../../` relative path hell.
 In the pod structure everything is grouped but it is very prone to code and files

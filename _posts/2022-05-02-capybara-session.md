@@ -9,7 +9,7 @@ categories: coding rspec
 In a Rails RSpec that uses Capybara, we were visiting a page, clicking some stuff,
 making assertions and the click "complete" at the very end.
 
-In the spec right before clicking "complete", we were supposed to to to a different
+In the spec right before clicking "complete", we were supposed to go to a different
 path and check that some UI had changed contextually, as different users would be
 accessing those different views and get real-time results.
 

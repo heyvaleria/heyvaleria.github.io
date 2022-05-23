@@ -3,7 +3,7 @@ layout: post
 author: Valeria
 title: "Properties of a JavaScript function"
 date: 2022-04-29
-categories: coding
+categories: coding javascript
 ---
 
 Thanks to [Chris](https://github.com/whitecl) for the mentoring session!

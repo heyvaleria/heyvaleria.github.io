@@ -16,6 +16,7 @@ Notes
 `node_modules/.bin/jest --no-coverage -t "my scenario title foo bar" -- spec/javascript/lib/path/to/file.spec.js`
 
 - How to run it with the **debugger**
+
 1) In your Chrome browser, in the address bar, type `chrome://inspect/#devices`
 
 2) Click on the link "Open dedicated DevTools for Node"

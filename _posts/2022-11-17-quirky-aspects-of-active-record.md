@@ -5,7 +5,7 @@ title: "Quirky aspects of Active Record"
 date: 2022-11-17
 categories: coding rails sql
 ---
-There are some things I find confusing about Active Record [DSL](https://martinfowler.com/books/dsl.html).
+There are some things I find confusing about Active Record ORM/DSL (ORM or DSL or both?).
 I'm gonna write them down here so next time I get confused about them I have a place to go to and look them up:
 # 1. `.joins` is in fact an INNER JOIN
 ---

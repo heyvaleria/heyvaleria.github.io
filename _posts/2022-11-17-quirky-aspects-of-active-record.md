@@ -37,7 +37,7 @@ Which produces:
 
 ---
 
-# 5. If you want a NESTED association, you do NOT use the comma, but you indicate the column
+# 5. If you want a NESTED association, you do NOT use the comma
 ```
   Book.joins(reviews: :customer)
 ```
@@ -68,4 +68,4 @@ And following paragraphs.
 ---
 General post references:
 - [Active Record Basics](https://guides.rubyonrails.org/active_record_basics.html)
-- Awesome blog post about [Query Objects in Rails by Thiago](https://thoughtbot.com/blog/a-case-for-query-objects-in-rails) - bookmenrk it for next time you are in scope hell.
+- Awesome blog post about [Query Objects in Rails by Thiago](https://thoughtbot.com/blog/a-case-for-query-objects-in-rails) - bookmark it for next time you are in scope hell.

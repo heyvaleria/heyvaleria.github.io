@@ -1,5 +1,5 @@
 This is the repo for my blog _It's a bench_.
-It started as a TIL journal, and eventually decided to make it public.
+A TIL journal, and considerations, and things I learn and re-learn.
 
 [It's a bench](https://heyvaleria.github.io/)
 

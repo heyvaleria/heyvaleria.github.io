@@ -3,6 +3,13 @@ layout: page
 title: About
 permalink: /about/
 ---
+### -> me
+I am Valeria, a developer at [thoughtbot](https://thoughtbot.com/).
+I am from Pisa, Italy.
+This blog started as a journal to keep track of the things I learn, and re-learn
+and remember every day.
+
+### -> this blog
 Naming variables is one of the hardest things.
 
 Naming pets, bikes and songs is easier.

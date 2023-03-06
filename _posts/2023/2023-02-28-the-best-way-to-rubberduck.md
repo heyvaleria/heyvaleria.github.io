@@ -3,7 +3,7 @@ layout: post
 author: Valeria
 title: "The best way to rubberduck"
 date: 2023-02-28
-categories: coding
+categories: coding consulting
 ---
 When I started learning how to code at General Assembly, my teammates
 and I were strongly encouraged to practice the so-called

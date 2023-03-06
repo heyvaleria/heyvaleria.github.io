@@ -15,6 +15,8 @@ There are many reasons to be pairing:
 
 The first ones on the list seem to be the most common scenarios when folks think about pairing, I guess, where I really enjoy developing something new as a pair.
 
+## Why I Like Pairing
+
 I like pairing when I don't know the answer to something, either because it is broken or not working as intended, or because it has to be designed and the code has to be written yet.
 
 We have some nice [guidelines](https://thoughtbot.com/blog/how-to-get-better-at-pair-programming) with a few suggestions on how to get the most out of a pairing session, but I also realize it takes time and exercise to produce a fulfilling pairing session.
@@ -27,6 +29,8 @@ If I already know how to do something, I can still take the opportunity to pair 
 
 Besides, it is also a great exercise in refining my mentoring skills. (And this does NOT mean lecturing!)
 I want to be on both sides.
+
+## My Ideal Pairing Session
 
 In my ideal pairing session, there should be many questions and less statements. We are figuring things out.
 

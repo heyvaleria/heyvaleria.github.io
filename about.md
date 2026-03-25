@@ -19,6 +19,8 @@ Naming pets, bikes and songs is easier.
 
 Coming up with names for usernames, blogs and website domains is also hard.
 
+<img src="/assets/images/bench.png" alt="a bench" style="float: left; margin-right: 1.5em; margin-bottom: 1em; width: 200px;">
+
 When a friend was visiting Seattle and asked me for things to see and
 attractions, I mentioned Viretta Park, the apparently historical park where the
 legend says Kurt Cobain used to go hang out etc.

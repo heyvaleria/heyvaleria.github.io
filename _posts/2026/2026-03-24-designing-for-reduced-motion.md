@@ -3,7 +3,7 @@ layout: post
 author: Valeria
 title: "Your carousel might not be accessible: designing for reduced motion"
 date: 2026-03-24
-categories: accessibility, design, development, coding, inclusive design
+categories: accessibility design development coding inclusive-design
 ---
 
 On a website I worked on, I noticed some logos stacked vertically on the left
@@ -45,14 +45,13 @@ It's about making sure the experience still works when things change.
 
 And the good news is, this is something we can account for.
 
+```
 @media (prefers-reduced-motion: reduce) {
   /* provide a non-animated, stable layout */
 }
-
-...which I later discovered was present in the CSS file, but not properly
-configured.
+```
 
 A small detail, but one that can make the difference between something that
 looks fine, and something that actually works for everyone.
 
-Reference: https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/At-rules/@media/prefers-reduced-motion
+Reference: [prefers-reduced-motion on MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/At-rules/@media/prefers-reduced-motion)

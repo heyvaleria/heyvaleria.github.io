@@ -1,0 +1,32 @@
+---
+---
+
+$background-color: #1e1e1e;
+$text-color:       #e0e0e0;
+$brand-color:      #7db3e8;
+$grey-color:       #9e9e9e;
+$grey-color-light: #3a3a3a;
+$grey-color-dark:  #c0c0c0;
+
+@import "minima";
+
+body {
+  background: linear-gradient(to bottom, #011a16, #17020b) fixed;
+  min-height: 100vh;
+}
+
+.site-header {
+  border-top: none;
+}
+
+// Dates
+.post-meta {
+  color: #7a8fa6;
+}
+
+// Code blocks
+pre, code {
+  background-color: #2d2d2d;
+  border-color: #444;
+  color: #e0e0e0;
+}

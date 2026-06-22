@@ -24,6 +24,20 @@ body {
   color: #7a8fa6;
 }
 
+.social-media-list {
+  display: flex;
+  flex-direction: row;
+  gap: 0.75em;
+
+  li {
+    display: inline;
+  }
+
+  li + li {
+    padding-top: 0;
+  }
+}
+
 // Code blocks
 pre, code {
   background-color: #2d2d2d;

@@ -28,7 +28,7 @@ Coming up with names for usernames, blogs and website domains is also hard.
 <img src="/assets/images/bench.png" alt="a bench" style="float: left; margin-right: 1.5em; margin-bottom: 1em; width: 120px;">
 
 When a friend was visiting Seattle and asked me for things to see and
-do, I mentioned Viretta Park, the renoun park where the
+do, I mentioned Viretta Park, the reknown park where the
 rumors says Kurt Cobain used to go hang out etc. (IDK, really)
 
 But I didn't want to get my friend's hopes too high on what to expect, so

@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-# About me
+## About me
 
 I am Valeria Graffeo, a senior developer and
 consultant at [thoughtbot](https://thoughtbot.com/).
@@ -17,27 +17,27 @@ frontend, backend, mobile development, some SRE.
 This blog is a journal to keep track of the things I learn, and re-learn
 and remember every day.
 
-# About this blog
+WIP: Eventually I'll add back my old projects, if they're still fun to look at.
 
-Naming variables is one of the hardest things.
+## How I got into coding
 
-Naming pets, bikes and songs is easier.
+I spent the 2010s in the USA. I used to live in Somerville and Medford, MA, in
+the Boston area. That's where I started coding, after attending a General Assembly
+bootcamp in 2015.
+During the pandemic I moved to Seattle, WA, and in 2021 I started working at thoughtbot.
+After a couple of years, I moved back to Pisa, Italy with my Bostonian cat, Brucey.
 
-Coming up with names for usernames, blogs and website domains is also hard.
+## What I do outside of coding
 
-<img src="/assets/images/bench.png" alt="a bench" style="float: left; margin-right: 1.5em; margin-bottom: 1em; width: 120px;">
+When I am not writing code, I am riding my road bike.
 
-When a friend was visiting Seattle and asked me for things to see and
-do, I mentioned Viretta Park, the reknown park where the
-rumors says Kurt Cobain used to go hang out etc. (IDK, really)
+I ride in the amateurs categories for the FCI (Federazione Ciclistica Italiana).
+I ride circuits, road races, crits. Occasionally granfondos.
 
-But I didn't want to get my friend's hopes too high on what to expect, so
-I texted him saying: "Then there is Viretta Park -- it's a bench".
+I am currently in the New MT Bike Team 2001 from Sesto Fiorentino.
 
-The same way, you shouldn't expect what you shouldn't expect from this blog,
-it's my perspective, my journey.
 
-# Contact me
+## Contact me
 Send me an email:
 <button id="copy-email" type="button">Copy email</button>
 <span id="copy-status"></span>

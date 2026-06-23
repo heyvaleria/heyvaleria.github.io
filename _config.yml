@@ -4,7 +4,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: It's a bench!
+title: tuskerette
 github_username:  heyvaleria
 linkedin_username: graffeov
 
@@ -13,6 +13,10 @@ theme: minima
 
 plugins:
   - jekyll-feed
+  - jekyll-paginate
+
+paginate: 6
+paginate_path: "/page:num/"
 
 navigation:
   - title: About

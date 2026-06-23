@@ -1,7 +1,8 @@
-# This is the repo for my blog _It's a bench_
+# This is the repo for my blog "tuskerette"
 
 A TIL journal, and considerations, and things I learn and re-learn.
 
-[It's a bench](https://heyvaleria.github.io/)
+[tuskerette](https://heyvaleria.github.io/)
+also on [tuskerette.com](https://www.tuskerette.com)
 
 To run the server locally: `bundle exec jekyll serve`

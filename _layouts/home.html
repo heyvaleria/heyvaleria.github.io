@@ -49,7 +49,7 @@ layout: default
             </li>
             {%- endif %}
             <li>
-                <div class="current-page">{{ paginator.page }}</div>
+                <div class="current-page">Page {{ paginator.page }} of {{ paginator.total_pages }}</div>
             </li>
             {%- if paginator.next_page %}
             <li><a href="{{ paginator.next_page_path | relative_url }}" class="next-page">{{ paginator.next_page }}</a>

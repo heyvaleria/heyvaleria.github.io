@@ -25,7 +25,7 @@ I spent the 2010s in the USA. I used to live in Somerville and Medford, MA, in
 the Boston area. That's where I started coding, after attending a General Assembly
 bootcamp in 2015.
 During the pandemic I moved to Seattle, WA, and in 2021 I started working at thoughtbot.
-After a couple of years, I moved back to Pisa, Italy with my Bostonian cat, Brucey.
+After a couple of years in Seattle, I moved back to Pisa, Italy, with my Bostonian cat, Brucey.
 
 ## What I do outside of coding
 
@@ -36,6 +36,10 @@ I ride circuits, road races, crits. Occasionally granfondos.
 
 I am currently in the New MT Bike Team 2001 from Sesto Fiorentino.
 
+<div class="about-images">
+  <img src="/assets/images/racing.jpg" alt="Valeria racing">
+  <img src="/assets/images/modeling.jpg" alt="Valeria modeling">
+</div>
 
 ## Contact me
 Send me an email:

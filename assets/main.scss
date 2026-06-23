@@ -76,9 +76,27 @@ pre, code {
 }
 
 .pagination a:hover {
-  background: #f5f5f5;
+  background: $grey-color-dark;
 }
 
 .current-page {
   font-weight: 600;
+}
+
+.about-images {
+  display: flex;
+  gap: 1rem;
+}
+
+.about-images img {
+  border-radius: 8px;
+  display: block;
+  flex: 1;
+  min-width: 0;
+}
+
+@media (max-width: 700px) {
+  .about-images {
+    flex-direction: column;
+  }
 }

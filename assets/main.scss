@@ -98,5 +98,11 @@ pre, code {
 @media (max-width: 700px) {
   .about-images {
     flex-direction: column;
+    gap: 1rem;
+  }
+
+  .about-images img {
+    width: 95%;
+    margin: 0 auto;
   }
 }

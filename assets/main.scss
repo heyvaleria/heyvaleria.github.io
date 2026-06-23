@@ -95,7 +95,7 @@ pre, code {
   min-width: 0;
 }
 
-@media (max-width: 700px) {
+@media (max-width: 600px) {
   .about-images {
     flex-direction: column;
     gap: 1rem;
@@ -104,5 +104,9 @@ pre, code {
   .about-images img {
     width: 95%;
     margin: 0 auto;
+  }
+
+  .site-header .site-nav .page-link {
+    margin-left: 0;
   }
 }

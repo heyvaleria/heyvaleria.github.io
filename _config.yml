@@ -19,12 +19,6 @@ plugins:
 paginate: 6
 paginate_path: "/page:num/"
 
-navigation:
-  - title: About
-    url: /about/
-  - title: Posts
-    url: /posts/
-
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
